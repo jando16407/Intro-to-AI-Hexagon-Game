@@ -21,4 +21,3 @@ Start the program, choose a player, take turns and win the game.
 ### Rules
 * Whoever makes a triangle loses.
 
-# Intro-to-AI-Hexagon-Game
